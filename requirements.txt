@@ -1,8 +1,5 @@
-streamlit
-numpy
-pandas
+streamlit==1.2.0
+numpy==1.24.3
+pandas==2.1.4
 scikit-learn
-pickle
-warnings
-joblit
-matplotlib.pyplot
+joblit==1.1.0
